@@ -12,5 +12,7 @@ con proveedor)+ hoja 'Conclusiones' con los intervalos de confianza.
 
 #### Integrantes
 -Rivero, Bruno Sebastián.
+
 -Suárez, Tomás.
+
 -Aguirre, Amilcar.
